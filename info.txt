@@ -1,1 +1,1 @@
-INFO prueba Git bash
+INFO prueba Git bash - Branch nuevo
